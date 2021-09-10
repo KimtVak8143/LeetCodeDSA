@@ -16,3 +16,13 @@
   - then subtract fixed integer from target and search in dictionary
   - then append the index of Int and compliment
 - Merge Sorted Array - 88
+  - Create a new list of size (m+n),
+  - in loop append the smallest element by comparing the 2 lists
+  - then add remaining elements of both lists after sorting is done.
+  - then clear the 1st list, and extend that list with new list
+- Squares of a Sorted Array - 977
+  - naive approach - square each element, then sort
+  - efficient approach - divide the list into -ve and +ve list
+  - iterate through elements, and store square of -ve in reverse order
+  - and squares of +ves normally in a new list
+- 
