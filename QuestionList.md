@@ -22,7 +22,7 @@
 ## Q3
 - Date : 10 September 2021
 - Statement : 1.Two Sum
-- Language :
+- Language : Python3
 - Link to problem : https://leetcode.com/problems/two-sum/
 
 ## Q4
@@ -32,10 +32,10 @@
 - Link to problem : https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 
 ## Q5
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 10 September 2021
+- Statement : 88. Merge Sorted Array
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/merge-sorted-array/
 
 ## Q6
 - Date : 
