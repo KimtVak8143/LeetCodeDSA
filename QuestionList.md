@@ -38,10 +38,10 @@
 - Link to problem : https://leetcode.com/problems/merge-sorted-array/
 
 ## Q6
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 10 September 2021
+- Statement : 977. Squares of a Sorted Array
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/squares-of-a-sorted-array/
 
 ## Q7
 - Date : 
