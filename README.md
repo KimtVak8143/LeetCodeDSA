@@ -8,7 +8,7 @@ LeetCode Practice Problems -DSA
 ### Problems are included from LeetCode only
 P.S. Just getting started
 
-<h3>Questions <a href="https://github.com/KimtVak8143/DSA_practice/blob/main/QuestionList.md">Index</a></h3>
+<h3>Questions <a href="https://github.com/KimtVak8143/LeetCodeDSA/blob/main/QuestionList.md">Index</a></h3>
 <!--  <h3>Solutions <a href="https://github.com/KimtVak8143/DSA_practice/blob/main/SolREADME.md">Index</a></h2>   -->
 
 
