@@ -56,10 +56,10 @@
 - Link to problem : https://leetcode.com/problems/intersection-of-two-arrays/
 
 ## Q9
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 11 September 2021
+- Statement : 1813. Sentence Similarity III
+- Language : python3
+- Link to problem : https://leetcode.com/problems/sentence-similarity-iii/
 
 ## Q10
 - Date : 

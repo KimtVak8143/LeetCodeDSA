@@ -47,4 +47,13 @@
   - then use intersection function and print result as
   - return list(l1 & l2)
 
+- Sentence Similarity III - 1813
+  - store the strings as a list, then Compare first and last element of list,
+  - then pop them out, until size of any list == 0, 
+  - if any of the list is empty, then it satisfies the condition, hence return True
+  - Or
+  - compare the last elements only, and reverse after popping them
+  - then pop them out, until size of any list == 0, 
+  - if any of the list is empty, then it satisfies the condition, hence return True
+
 - 
