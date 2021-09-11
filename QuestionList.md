@@ -44,28 +44,28 @@
 - Link to problem : https://leetcode.com/problems/squares-of-a-sorted-array/
 
 ## Q7
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 11 September 2021
+- Statement : 350. Intersection of Two Arrays II
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/intersection-of-two-arrays-ii/
 
 ## Q8
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 11 September 2021
+- Statement : 349. Intersection of Two Arrays
+- Language : python3
+- Link to problem : https://leetcode.com/problems/intersection-of-two-arrays/
 
 ## Q9
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 11 September 2021
+- Statement : 1813. Sentence Similarity III
+- Language : python3
+- Link to problem : https://leetcode.com/problems/sentence-similarity-iii/
 
 ## Q10
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 11 September 2021
+- Statement : 121. Best Time to Buy and Sell Stock
+- Language : python3
+- Link to problem : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 ## Q11
 - Date : 
