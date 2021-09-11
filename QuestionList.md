@@ -62,10 +62,10 @@
 - Link to problem : https://leetcode.com/problems/sentence-similarity-iii/
 
 ## Q10
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 11 September 2021
+- Statement : 121. Best Time to Buy and Sell Stock
+- Language : python3
+- Link to problem : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 ## Q11
 - Date : 

@@ -59,4 +59,9 @@
   - if any of the list is empty, then it satisfies the condition, 
   - hence, return True
 
-- 
+- Best Time to Buy and Sell Stock - 121
+  - create 2 markers - high and low, and set on prices[0]
+  - now iterate through each element, if ele>high => update value of high, 
+  - while low will be same, now store maximum of (high-low, original)
+  - now move forward, if ele<low => update low and high as well, to avoid 
+  - negative profit possibility,
