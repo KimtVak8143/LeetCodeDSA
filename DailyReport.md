@@ -1,4 +1,4 @@
-#Daily Progress
+# Daily Progress
 
 ## 9 september 2021
 - Contains Duplicate - 217
@@ -30,7 +30,7 @@
   - iterate through elements, and store square of -ve in reverse order
   - and squares of +ves normally in a new list
 
-##11 september 2021
+## 11 september 2021
 - Intersection of Two Arrays II - 350
   - hash table approach - first create a dict
   - then store 1st list elements, if duplicate increment count
