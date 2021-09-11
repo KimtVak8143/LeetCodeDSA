@@ -38,4 +38,11 @@
   - reduce the count by 1, for duplicate check, if count is 0,
   - then delete the key finally return result list
 
-- 
+- Intersection of Two Arrays - 349
+  - hash table approach, first create a dictionary
+  - then store all elements of 1st list, ignore duplicates
+  - then iterate through 2nd list, if element in 1st list also, 
+  - then append in result, finally return result list
+  - Naive Approach - create 2 sets, for each list
+  - then use intersection function and print result as
+  - return list(l1 & l2)

@@ -50,10 +50,10 @@
 - Link to problem : https://leetcode.com/problems/intersection-of-two-arrays-ii/
 
 ## Q8
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 11 September 2021
+- Statement : 349. Intersection of Two Arrays
+- Language : python3
+- Link to problem : https://leetcode.com/problems/intersection-of-two-arrays/
 
 ## Q9
 - Date : 

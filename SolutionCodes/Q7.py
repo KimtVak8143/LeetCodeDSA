@@ -1,3 +1,4 @@
+# 350. Intersection of Two Arrays II
 class Solution:
     def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
         new = []
