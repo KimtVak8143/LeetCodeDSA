@@ -44,10 +44,10 @@
 - Link to problem : https://leetcode.com/problems/squares-of-a-sorted-array/
 
 ## Q7
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 11 September 2021
+- Statement : 350. Intersection of Two Arrays II
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/intersection-of-two-arrays-ii/
 
 ## Q8
 - Date : 
