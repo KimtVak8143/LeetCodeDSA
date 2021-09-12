@@ -77,4 +77,16 @@
   - Another approach - store as string, check for '-' in it, 
   - if true, then res = int(str(x)[1:][::-1]) and then add '-' at last to res
   - return res
-- 
+
+- Pascal's Triangle
+  - Any row can be constructed using the offset sum of the previous row
+  - res = [[1]] -> the initial row, for further calculation
+  - like 1210+0121 =1331-> next row, similarly, 13310+01331 =14641 -> next row
+  - simply append it into the result list
+
+- Pascal's Triangle -II
+  - Any row can be constructed using the offset sum of the previous row
+  - res = [[1]] -> the initial row, for further calculation up till RowIndex+1
+  - like 1210+0121 =1331-> next row, similarly, 13310+01331 =14641 -> next row
+  - simply append it into the result list, 
+  - now return result[rowindex]

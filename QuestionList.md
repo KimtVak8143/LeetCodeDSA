@@ -75,15 +75,15 @@
 
 ## Q12
 - Date : 12 September 2021
-- Statement : 
+- Statement : 118. Pascal's Triangle
 - Language : Python3
-- Link to problem :
+- Link to problem : https://leetcode.com/problems/pascals-triangle/
 
 ## Q13
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 12 September 2021
+- Statement : 119. Pascal's Triangle II
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/pascals-triangle-ii/
 
 ## Q
 - Date : 
