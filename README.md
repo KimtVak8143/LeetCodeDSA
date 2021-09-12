@@ -5,12 +5,11 @@ LeetCode Practice Problems -DSA
 
 <h3>Maintained and Structured by <a href="https://github.com/KimtVak8143">Mohit Kumar Kushwaha</a></h3> 
 
-### Problems are included from LeetCode only
+### LeetCode Problems only
 P.S. Just getting started
 
 <h3>Questions <a href="https://github.com/KimtVak8143/LeetCodeDSA/blob/main/QuestionList.md">Index</a></h3>
-<!--  <h3>Solutions <a href="https://github.com/KimtVak8143/DSA_practice/blob/main/SolREADME.md">Index</a></h2>   -->
-
+<h3> Read my <a href="https://github.com/KimtVak8143/LeetCodeDSA/blob/main/DailyReport.md">Daily Report </a>mentioning all the different Approaches, Methods, Algorithms used for a particular problem</h3>
 
 ## Contributions are Welcome
 
