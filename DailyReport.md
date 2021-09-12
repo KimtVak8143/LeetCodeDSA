@@ -1,4 +1,4 @@
-#Daily Progress
+# Daily Progress
 
 ## 9 september 2021
 - Contains Duplicate - 217
@@ -30,7 +30,7 @@
   - iterate through elements, and store square of -ve in reverse order
   - and squares of +ves normally in a new list
 
-##11 september 2021
+## 11 september 2021
 - Intersection of Two Arrays II - 350
   - hash table approach - first create a dict
   - then store 1st list elements, if duplicate increment count
@@ -64,4 +64,17 @@
   - now iterate through each element, if ele>high => update value of high, 
   - while low will be same, now store maximum of (high-low, original)
   - now move forward, if ele<low => update low and high as well, to avoid 
-  - negative profit possibility,
+  - negative profit possibility
+
+## 12 September
+- Reverse Integer - 7
+  - Naive solution - divide and remainder logic, check for outbound too, 
+  - -2**\31-1 and 2**31 and multiply with - for negative numbers, then apply method
+  - Efficient Approach - Convert into string, then check for '-', if true, 
+  - remove it then apply revNum += (int(strX[i]) * pow(10, i)), 
+  - finally, check for outbound condition, and if signed, thne add '-' at beginning of string
+  - then return result integer 
+  - Another approach - store as string, check for '-' in it, 
+  - if true, then res = int(str(x)[1:][::-1]) and then add '-' at last to res
+  - return res
+- 

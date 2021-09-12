@@ -68,15 +68,15 @@
 - Link to problem : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 ## Q11
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 12 September 2021
+- Statement : 7. Reverse Integer
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/reverse-integer/
 
 ## Q12
-- Date : 
+- Date : 12 September 2021
 - Statement : 
-- Language :
+- Language : Python3
 - Link to problem :
 
 ## Q13
