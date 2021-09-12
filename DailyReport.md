@@ -72,23 +72,29 @@
   - -2**\31-1 and 2**31 and multiply with - for negative numbers, then apply method
   - Efficient Approach - Convert into string, then check for '-', if true, 
   - remove it then apply revNum += (int(strX[i]) * pow(10, i)), 
-  - finally, check for outbound condition, and if signed, thne add '-' at beginning of string
+  - finally, check for outbound condition, and if signed, then add '-' at beginning of string
   - then return result integer 
   - Another approach - store as string, check for '-' in it, 
   - if true, then res = int(str(x)[1:][::-1]) and then add '-' at last to res
   - return res
 
-- Pascal's Triangle
+- Pascal's Triangle - 118
   - Any row can be constructed using the offset sum of the previous row
   - res = [[1]] -> the initial row, for further calculation
   - like 1210+0121 =1331-> next row, similarly, 13310+01331 =14641 -> next row
   - simply append it into the result list
 
-- Pascal's Triangle -II
+- Pascal's Triangle -II - 119
   - Any row can be constructed using the offset sum of the previous row
   - res = [[1]] -> the initial row, for further calculation up till RowIndex+1
   - like 1210+0121 =1331-> next row, similarly, 13310+01331 =14641 -> next row
   - simply append it into the result list, 
   - now return result[rowindex]
 
-- 
+- Reshape the Matrix - 566
+  - Naive approach - create a linear list, now store all the elements of matrix
+  - in the linear list, now check if len(new) = r*c, if false, return the original matrix
+  - otherwise, now in a loop, append all elements of new in result matrix 
+  - from k to k+c, up till len(new), with increment of c, to avoid overflow
+
+-

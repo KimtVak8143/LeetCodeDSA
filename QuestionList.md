@@ -86,10 +86,10 @@
 - Link to problem : https://leetcode.com/problems/pascals-triangle-ii/
 
 ## Q14
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 12 September 2021
+- Statement : 566. Reshape the Matrix
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/reshape-the-matrix/
 
 ## Q15
 - Date : 
