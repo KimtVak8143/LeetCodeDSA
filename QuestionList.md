@@ -68,25 +68,134 @@
 - Link to problem : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 ## Q11
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 12 September 2021
+- Statement : 7. Reverse Integer
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/reverse-integer/
 
 ## Q12
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 12 September 2021
+- Statement : 118. Pascal's Triangle
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/pascals-triangle/
 
 ## Q13
+- Date : 12 September 2021
+- Statement : 119. Pascal's Triangle II
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/pascals-triangle-ii/
+
+## Q14
+- Date : 12 September 2021
+- Statement : 566. Reshape the Matrix
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/reshape-the-matrix/
+
+## Q15
 - Date : 
 - Statement : 
 - Language :
 - Link to problem :
 
-## Q
+## Q16
 - Date : 
 - Statement : 
 - Language :
 - Link to problem :
+
+## Q17
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q18
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q19
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q20
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q21
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q22
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q23
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q24
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q25
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q26
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q27
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q28
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q29
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q30
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q3
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q3
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
