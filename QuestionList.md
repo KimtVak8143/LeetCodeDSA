@@ -85,8 +85,117 @@
 - Language : Python3
 - Link to problem : https://leetcode.com/problems/pascals-triangle-ii/
 
-## Q
+## Q14
 - Date : 
 - Statement : 
 - Language :
 - Link to problem :
+
+## Q15
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q16
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q17
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q18
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q19
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q20
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q21
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q22
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q23
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q24
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q25
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q26
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q27
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q28
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q29
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q30
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q3
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q3
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+

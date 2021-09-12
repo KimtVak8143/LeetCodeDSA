@@ -90,3 +90,5 @@
   - like 1210+0121 =1331-> next row, similarly, 13310+01331 =14641 -> next row
   - simply append it into the result list, 
   - now return result[rowindex]
+
+- 
