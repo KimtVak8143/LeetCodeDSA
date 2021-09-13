@@ -114,4 +114,10 @@
   - this means, it's a repetition, hence return false
   - otherwise, add all these elements (i, ele),(ele, j),(i//3, j//3, ele)
   - in the set and proceed
-  - Finally return True
+  - Finally, return True
+
+- Search a 2D Matrix - 74
+  - Decreasing the search scope Technique, with help of lower and upper bound
+  - if LB- first element of row, UB- last element of row
+  - if target > UB, row++ or if target < UB, col--
+  - hence, minimizing teh search area, and if target==matrix[i][j], return True
