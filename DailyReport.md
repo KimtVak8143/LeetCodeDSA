@@ -118,6 +118,11 @@
 
 - Search a 2D Matrix - 74
   - Decreasing the search scope Technique, with help of lower and upper bound
-  - if LB- first element of row, UB- last element of row
+  - LB- first element of row, UB- last element of row
   - if target > UB, row++ or if target < UB, col--
   - hence, minimizing teh search area, and if target==matrix[i][j], return True
+  - Linear sorting was present in matrix, hence runtime was efficient
+  
+- Search a 2D Matrix II - 240
+  - Same method used as above, but this was quite complex, because of 
+  - different sorting in rows and columns, i.e. not linear sorting, hence runtime increased significantly

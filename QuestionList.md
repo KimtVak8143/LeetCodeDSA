@@ -104,10 +104,10 @@
 - Link to problem : https://leetcode.com/problems/search-a-2d-matrix/
 
 ## Q17
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 13 September 2021
+- Statement : 240. Search a 2D Matrix II
+- Language : C++(160ms)
+- Link to problem : https://leetcode.com/problems/search-a-2d-matrix-ii/
 
 ## Q18
 - Date : 
