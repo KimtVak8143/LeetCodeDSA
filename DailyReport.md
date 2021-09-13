@@ -97,4 +97,21 @@
   - otherwise, now in a loop, append all elements of new in result matrix 
   - from k to k+c, up till len(new), with increment of c, to avoid overflow
 
--
+## 13 september 2021
+- Valid Sudoku - 36
+  - CPP - create a row[9][9], col[9][9] and block[3][3][9] with each element =0
+  - since the input is in strings, so [number][string] logic is used
+  - rows[5][0] means whether number 1('0'+1) in row 5 has appeared
+  - cols[3][8] means whether number 9('8'+1) in col 3 has appeared
+  - blocks[0][2][5] means whether number '6' in block 0,2 (row 0~2,col 6~8) has appeared
+  - now iterating through each element of board, skip all those with '.'
+  - calculate the number's index(board's number minus 1)
+  - if the number has already appeared once, return false
+  - else return True
+  - Python3 - 
+  - create a set, now iterate through each board element, if element!='.', then proceed
+  - if (i, ele) or (ele, j) or (i//3, j//3, ele) are in set already, 
+  - this means, it's a repetition, hence return false
+  - otherwise, add all these elements (i, ele),(ele, j),(i//3, j//3, ele)
+  - in the set and proceed
+  - Finally return True

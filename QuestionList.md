@@ -92,13 +92,13 @@
 - Link to problem : https://leetcode.com/problems/reshape-the-matrix/
 
 ## Q15
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 13 September 2021
+- Statement : 36. Valid Sudoku
+- Language : C++-16ms, Python3 - 96 ms(72ms)
+- Link to problem : https://leetcode.com/problems/valid-sudoku/
 
 ## Q16
-- Date : 
+- Date : 13 September 2021
 - Statement : 
 - Language :
 - Link to problem :
