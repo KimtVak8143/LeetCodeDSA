@@ -122,10 +122,10 @@
 - Link to problem : https://leetcode.com/problems/first-unique-character-in-a-string/
 
 ## Q20
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 14 September 2021
+- Statement : 242. Valid Anagram
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/valid-anagram/
 
 ## Q21
 - Date : 
