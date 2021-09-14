@@ -1,6 +1,7 @@
 # Daily Progress
 
 ## 9 september 2021
+
 - Contains Duplicate - 217
   - Frequency count technique
 
@@ -8,6 +9,7 @@
   - Kadane's Algorithm
 
 ## 10 September 2021
+
 - Two Sum - 1
   - Hashmap technique - create dictionary(key- integer, value- index)
   - then subtract fixed integer from target and search in dictionary
@@ -31,6 +33,7 @@
   - and squares of +ves normally in a new list
 
 ## 11 september 2021
+
 - Intersection of Two Arrays II - 350
   - hash table approach - first create a dict
   - then store 1st list elements, if duplicate increment count
@@ -67,6 +70,7 @@
   - negative profit possibility
 
 ## 12 September
+
 - Reverse Integer - 7
   - Naive solution - divide and remainder logic, check for outbound too, 
   - -2**\31-1 and 2**31 and multiply with - for negative numbers, then apply method
@@ -98,6 +102,7 @@
   - from k to k+c, up till len(new), with increment of c, to avoid overflow
 
 ## 13 september 2021
+
 - Valid Sudoku - 36
   - CPP - create a row[9][9], col[9][9] and block[3][3][9] with each element =0
   - since the input is in strings, so [number][string] logic is used
@@ -126,3 +131,37 @@
 - Search a 2D Matrix II - 240
   - Same method used as above, but this was quite complex, because of 
   - different sorting in rows and columns, i.e. not linear sorting, hence runtime increased significantly
+
+## 14 September 2021
+
+- Ransom Note - 383
+  - Python - using count(), for each element if count of ransom is less than magazine, return False, else proceed, finally return True
+  - or, iterate through each element in ransom, if found in magazine also,
+  - then replace(i,"",1) and proceed, if all are found, return True, otherwise False
+  - or, simply create a dictionary (hash table) and mark frequency of each character in magazine, 
+  - then check for presence of ransom elements in dict, 
+  - then decrement the frequency by 1
+  - then if frequency of all element is < 0, return False, otherwise Return True
+  - C++ - Create a array of 26, store frequency each character of magazine at ascii index, 
+  - now iterate through ransom, and store their frequency in ransom array,
+  - now ideally, frequency of ransom elements should be less than or equal to magazine
+  - so if this is not the case, return False, else True
+  - OR, using unordered map for 26 objects, 
+  - increment magazine elements in map, and later, decrement ransom elements
+  - if count/frequency goes <0, return False, else return True
+
+- First Unique Character in a String - 387
+  - using hash table approach, store frequency of each character, 
+  - then iterate and if freq ==1, return i, else return -1
+
+- Valid Anagram - 242
+  - first check if lengths are equal or not, if not return False, else continue
+  - now simply iterate in set of string1, and check if 
+  - s1.count(i)!=s2.count(i), -> return False
+  - else return True
+  - OR
+  - use map = collections.counter(s1), return map1==map2
+  - OR
+  - take frequency of each element from s1 into map, and later decrement from s2
+  - finally, check if dict is empty or not, if empty, return True 
+  - else return False

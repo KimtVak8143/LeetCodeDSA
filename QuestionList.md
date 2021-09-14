@@ -106,26 +106,26 @@
 ## Q17
 - Date : 13 September 2021
 - Statement : 240. Search a 2D Matrix II
-- Language : C++(160ms)
+- Language : C++(160ms), Python3(250ms)
 - Link to problem : https://leetcode.com/problems/search-a-2d-matrix-ii/
 
 ## Q18
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 14 September 2021
+- Statement : 383. Ransom Note
+- Language : Python3-36ms(12ms), C++()
+- Link to problem : https://leetcode.com/problems/ransom-note/
 
 ## Q19
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 14 September 2021
+- Statement : 387. First Unique Character in a String
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/first-unique-character-in-a-string/
 
 ## Q20
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 14 September 2021
+- Statement : 242. Valid Anagram
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/valid-anagram/
 
 ## Q21
 - Date : 
