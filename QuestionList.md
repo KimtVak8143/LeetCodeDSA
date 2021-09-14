@@ -116,10 +116,10 @@
 - Link to problem : https://leetcode.com/problems/ransom-note/
 
 ## Q19
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 14 September 2021
+- Statement : 387. First Unique Character in a String
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/first-unique-character-in-a-string/
 
 ## Q20
 - Date : 

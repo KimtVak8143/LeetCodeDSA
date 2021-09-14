@@ -143,4 +143,7 @@
   - OR, using unordered map for 26 objects, 
   - increment magazine elements in map, and later, decrement ransom elements
   - if count/frequency goes <0, return False, else return True
-- 
+
+- First Unique Character in a String - 387
+  - using hash table approach, store frequency of each character, 
+  - then iterate and if freq ==1, return i, else return -1
