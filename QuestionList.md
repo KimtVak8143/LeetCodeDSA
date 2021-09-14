@@ -106,14 +106,14 @@
 ## Q17
 - Date : 13 September 2021
 - Statement : 240. Search a 2D Matrix II
-- Language : C++(160ms)
+- Language : C++(160ms), Python3(250ms)
 - Link to problem : https://leetcode.com/problems/search-a-2d-matrix-ii/
 
 ## Q18
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 14 September 2021
+- Statement : 383. Ransom Note
+- Language : Python3-36ms(12ms), C++()
+- Link to problem : https://leetcode.com/problems/ransom-note/
 
 ## Q19
 - Date : 

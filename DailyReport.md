@@ -126,3 +126,21 @@
 - Search a 2D Matrix II - 240
   - Same method used as above, but this was quite complex, because of 
   - different sorting in rows and columns, i.e. not linear sorting, hence runtime increased significantly
+
+## 14 September 2021
+- Ransom Note - 383
+  - Python - using count(), for each element if count of ransom is less than magazine, return False, else proceed, finally return True
+  - or, iterate through each element in ransom, if found in magazine also,
+  - then replace(i,"",1) and proceed, if all are found, return True, otherwise False
+  - or, simply create a dictionary (hash table) and mark frequency of each character in magazine, 
+  - then check for presence of ransom elements in dict, 
+  - then decrement the frequency by 1
+  - then if frequency of all element is < 0, return False, otherwise Return True
+  - C++ - Create a array of 26, store frequency each character of magazine at ascii index, 
+  - now iterate through ransom, and store their frequency in ransom array,
+  - now ideally, frequency of ransom elements should be less than or equal to magazine
+  - so if this is not the case, return False, else True
+  - OR, using unordered map for 26 objects, 
+  - increment magazine elements in map, and later, decrement ransom elements
+  - if count/frequency goes <0, return False, else return True
+- 
