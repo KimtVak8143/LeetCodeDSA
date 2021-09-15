@@ -186,3 +186,12 @@
   - then append 0 in new for len(flag)
   - OR
   - using enumerate function ( NOT STUDIED YET)
+
+- Magical String - 481
+  - Since how many current "1" or "2" depends on previous number in S
+  - we can use a queue to get the corresponding information we need. 
+  - Every time we update S, we update queue as well.
+  - then return count(1) for all 1s in final list/string
+  - OR 
+  - implementing the same method with using a dict
+  - **the important step/formula is S = S[i]\*[3-S[-1]]**
