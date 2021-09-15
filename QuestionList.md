@@ -134,10 +134,10 @@
 - Link to problem : https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 ## Q22
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 15 September 2021
+- Statement : # 27. Remove Element
+- Language : python3
+- Link to problem : https://leetcode.com/problems/remove-element/
 
 ## Q23
 - Date : 

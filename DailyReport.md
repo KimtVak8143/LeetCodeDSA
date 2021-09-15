@@ -176,4 +176,6 @@
   - finally, cleared nums -> nums.clear() and then extended nums as nums.extend(new)
   - return nums
 
-- 27. Remove Element
+- Remove Element - 27
+  - appended all element of given list into a new list, except ele==val
+  - then nums.clear(), and later nums.extend(new), return nums
