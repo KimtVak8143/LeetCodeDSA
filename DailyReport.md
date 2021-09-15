@@ -165,3 +165,15 @@
   - take frequency of each element from s1 into map, and later decrement from s2
   - finally, check if dict is empty or not, if empty, return True 
   - else return False
+
+## 15 September 2021
+
+- Remove Duplicates from Sorted Array - 26
+  - used hashtable approach(duplicate), stored all elements in dict with value =1
+  - if duplicate, then increased value by 1
+  - then iterated through each element of dict, and stored in list,
+  - only if it is not already present in it, hence only unique elements are stored
+  - finally, cleared nums -> nums.clear() and then extended nums as nums.extend(new)
+  - return nums
+
+- 27. Remove Element
