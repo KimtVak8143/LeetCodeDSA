@@ -135,7 +135,7 @@
 
 ## Q22
 - Date : 15 September 2021
-- Statement : # 27. Remove Element
+- Statement : 27. Remove Element
 - Language : python3
 - Link to problem : https://leetcode.com/problems/remove-element/
 
