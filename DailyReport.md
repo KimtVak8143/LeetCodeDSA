@@ -179,3 +179,10 @@
 - Remove Element - 27
   - appended all element of given list into a new list, except ele==val
   - then nums.clear(), and later nums.extend(new), return nums
+
+- Move Zeroes - 283
+  - simply creating a new list and appending all elements except x!=0, 
+  - and for each x==0, incrementing count/flag. 
+  - then append 0 in new for len(flag)
+  - OR
+  - using enumerate function ( NOT STUDIED YET)

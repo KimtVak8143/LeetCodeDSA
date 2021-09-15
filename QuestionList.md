@@ -140,10 +140,10 @@
 - Link to problem : https://leetcode.com/problems/remove-element/
 
 ## Q23
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 15 September 2021
+- Statement : 283. Move Zeroes
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/move-zeroes/
 
 ## Q24
 - Date : 
