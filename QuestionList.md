@@ -152,10 +152,10 @@
 - Link to problem : https://leetcode.com/problems/magical-string/
 
 ## Q25
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 16 September 2021
+- Statement : 821. Shortest Distance to a Character
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/shortest-distance-to-a-character/
 
 ## Q26
 - Date : 
