@@ -204,3 +204,9 @@
   - else, make list[i]= abs(flag-i)
   - now iterating for the shortest distances, by using min()
   - finally, return the list
+
+- Sum of Digits of String After Convert - 1945
+  - first converting all characters into their ascii numbers
+  - then forming the string of that, and subsequently into int form
+  - then for k times, performing sum() on each int in integer-string
+  - return string later
