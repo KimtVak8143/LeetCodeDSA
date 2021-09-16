@@ -195,3 +195,18 @@
   - OR 
   - implementing the same method with using a dict
   - **the important step/formula is S = S[i]\*[3-S[-1]]**
+
+## 16 September 2021
+
+- Shortest Distance to a Character - 821
+  - Initially, locate the first occurrence of c in s, then create a list of n size, all initialized to 0
+  - now iterate through each character, if ==c, assign flag to that index, and make list[i]=0
+  - else, make list[i]= abs(flag-i)
+  - now iterating for the shortest distances, by using min()
+  - finally, return the list
+
+- Sum of Digits of String After Convert - 1945
+  - first converting all characters into their ascii numbers
+  - then forming the string of that, and subsequently into int form
+  - then for k times, performing sum() on each int in integer-string
+  - return string later

@@ -152,16 +152,16 @@
 - Link to problem : https://leetcode.com/problems/magical-string/
 
 ## Q25
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 16 September 2021
+- Statement : 821. Shortest Distance to a Character
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/shortest-distance-to-a-character/
 
 ## Q26
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 16 September 2021
+  - Statement : 1945. Sum of Digits of String After Convert
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 
 ## Q27
 - Date : 
