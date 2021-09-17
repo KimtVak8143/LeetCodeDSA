@@ -171,9 +171,9 @@
 
 ## Q28
 - Date : 17 September 2021
-- Statement : 258. Add Digits
+- Statement : 202. Happy Number
 - Language : Python3
-- Link to problem :
+- Link to problem : https://leetcode.com/problems/happy-number/
 
 ## Q29
 - Date : 
