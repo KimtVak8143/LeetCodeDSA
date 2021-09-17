@@ -164,15 +164,15 @@
 - Link to problem : https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 
 ## Q27
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 17 September 2021
+- Statement : 258. Add Digits
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/add-digits/
 
 ## Q28
-- Date : 
-- Statement : 
-- Language :
+- Date : 17 September 2021
+- Statement : 258. Add Digits
+- Language : Python3
 - Link to problem :
 
 ## Q29

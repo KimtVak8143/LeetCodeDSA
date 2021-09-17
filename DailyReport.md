@@ -210,3 +210,10 @@
   - then forming the string of that, and subsequently into int form
   - then for k times, performing sum() on each int in integer-string
   - return string later
+
+## 17 September 2021
+
+- Add Digits - 258
+  - simple algo of divide by 10 and add
+
+-
