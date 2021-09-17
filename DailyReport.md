@@ -210,3 +210,18 @@
   - then forming the string of that, and subsequently into int form
   - then for k times, performing sum() on each int in integer-string
   - return string later
+
+## 17 September 2021
+
+- Add Digits - 258
+  - simple algo of divide by 10 and add
+
+- Happy Number - 202
+  - using a hashmap automatically changes Time-Complexity from O(n) to O(1)
+  - so create a set and store all incoming digits using formula
+  - n = sum(int(i)**2 for i in str(n)), until n!=1, for n==1, return True
+  - Cycle Break rules:
+  - if n is already in set, then return False
+  - OR
+  - using divmod() function for squaring and adding into set
+  - use same restrictions until n==1, else for duplicate return False
