@@ -225,3 +225,12 @@
   - OR
   - using divmod() function for squaring and adding into set
   - use same restrictions until n==1, else for duplicate return False
+
+## 18 September 2021
+
+- Palindrome Number - 9
+  - naive solution - use string, then reverse using [::-1], and check for equality, return True/False
+  - Efficient approach - reverse the number using rem-divide technique, 
+  - then check for equality, this neglects the need of conversion to string
+
+- 

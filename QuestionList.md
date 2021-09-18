@@ -176,15 +176,15 @@
 - Link to problem : https://leetcode.com/problems/happy-number/
 
 ## Q29
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 18 September 2021
+- Statement : 9. Palindrome Number
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/palindrome-number/
 
 ## Q30
-- Date : 
-- Statement : 
-- Language :
+- Date : 18 September 2021
+- Statement : 9. Palindrome Number
+- Language : Python3
 - Link to problem :
 
 ## Q3
