@@ -187,11 +187,11 @@
 - Language : Python3
 - Link to problem : https://leetcode.com/problems/roman-to-integer/
 
-## Q3
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+## Q31
+- Date : 18 September 2021
+- Statement : 12. Integer to Roman
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/integer-to-roman/
 
 ## Q3
 - Date : 
