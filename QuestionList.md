@@ -183,9 +183,9 @@
 
 ## Q30
 - Date : 18 September 2021
-- Statement : 9. Palindrome Number
+- Statement : 13. Roman to Integer
 - Language : Python3
-- Link to problem :
+- Link to problem : https://leetcode.com/problems/roman-to-integer/
 
 ## Q3
 - Date : 

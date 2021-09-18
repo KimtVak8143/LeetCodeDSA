@@ -233,4 +233,9 @@
   - Efficient approach - reverse the number using rem-divide technique, 
   - then check for equality, this neglects the need of conversion to string
 
-- 
+- Roman to Integer - 13
+  - define the roman alphabets in a dictionary with their corresponding values
+  - then using reverse method, reverse the string, now check for each character 
+  - using a simple logic, of last_item>current_item -> then decrement the total
+  - else incrementing the total, finally return total
+
