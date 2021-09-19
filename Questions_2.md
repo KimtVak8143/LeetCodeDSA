@@ -32,31 +32,31 @@
 - Language : Python3
 - Link to problem : https://leetcode.com/problems/single-number-iii/
 
-## Q3
+## Q35
+- Date : 19 September 2021
+- Statement : 287. Find the Duplicate Number
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/find-the-duplicate-number/
+
+## Q36
 - Date : 
 - Statement : 
 - Language :
 - Link to problem :
 
-## Q3
+## Q37
 - Date : 
 - Statement : 
 - Language :
 - Link to problem :
 
-## Q3
+## Q38
 - Date : 
 - Statement : 
 - Language :
 - Link to problem :
 
-## Q3
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
-
-## Q3
+## Q39
 - Date : 
 - Statement : 
 - Language :
