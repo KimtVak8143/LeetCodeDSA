@@ -193,9 +193,9 @@
 - Language : Python3
 - Link to problem : https://leetcode.com/problems/integer-to-roman/
 
-## Q3
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+## Q32
+- Date : 19 September 2021
+- Statement : 136. Single Number
+- Language : Python3(120ms), C++(20ms)
+- Link to problem : https://leetcode.com/problems/single-number/
 
