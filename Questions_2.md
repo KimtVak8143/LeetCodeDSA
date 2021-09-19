@@ -21,14 +21,14 @@
 - Link to problem : https://leetcode.com/problems/single-number/
 
 ## Q3
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 19 September 2021
+- Statement : 137. Single Number II
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/single-number-ii/
 
 ## Q3
 - Date : 
-- Statement : 
+- Statement : 260. Single Number III
 - Language :
 - Link to problem :
 
