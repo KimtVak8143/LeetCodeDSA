@@ -247,4 +247,4 @@
   - create a 2D list, using simple logic store the corresponding character in string
   - return string
   
-Link ot next page : Click Here
+Link ot next page : <a href="https://github.com/KimtVak8143/LeetCodeDSA/blob/main/DailyReport2.md">Click Here</a>
