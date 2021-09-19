@@ -20,17 +20,17 @@
 - Language : Python3(120ms), C++(20ms)
 - Link to problem : https://leetcode.com/problems/single-number/
 
-## Q3
+## Q33
 - Date : 19 September 2021
 - Statement : 137. Single Number II
 - Language : Python3
 - Link to problem : https://leetcode.com/problems/single-number-ii/
 
-## Q3
-- Date : 
+## Q34
+- Date : 19 September 2021
 - Statement : 260. Single Number III
-- Language :
-- Link to problem :
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/single-number-iii/
 
 ## Q3
 - Date : 

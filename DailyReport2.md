@@ -17,4 +17,6 @@
 
 - Single Number III - 260
   - same technique as in for 137 & 136, simply appended the result in a new list and return list
-  - 
+  - OR using counter function
+
+
