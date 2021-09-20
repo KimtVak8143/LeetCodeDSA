@@ -39,15 +39,15 @@
 - Link to problem : https://leetcode.com/problems/find-the-duplicate-number/
 
 ## Q36
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 20 September 2021
+- Statement : 645. Set Mismatch
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/set-mismatch/
 
 ## Q37
-- Date : 
+- Date : 20 September 2021
 - Statement : 
-- Language :
+- Language : Python3
 - Link to problem :
 
 ## Q38

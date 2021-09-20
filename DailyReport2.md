@@ -24,3 +24,16 @@
   - OR
   - simply running duplicate check technique
   - OR using enumerate/counter methods
+
+## 20 September 2021
+
+- Set Mismatch - 645
+  -calculate the sum of n integers
+
+
+- Find the Difference - 389
+  - naive thinking: create a dictionary, now increment count of each element for 1st string
+  - then iterate in 2nd string, now decrement counts, unless the count is already 0, then return that character
+  - Effieicnt thinking: store the sum of ascii integers of all charcters in string 1 and 2
+  - then calculate the difernec between the two, the resultant is the ascii of extra character
+  - convert ascii into char, return that char
