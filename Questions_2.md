@@ -46,9 +46,9 @@
 
 ## Q37
 - Date : 20 September 2021
-- Statement : 
+- Statement : 268. Missing Number
 - Language : Python3
-- Link to problem :
+- Link to problem : https://leetcode.com/problems/missing-number/
 
 ## Q38
 - Date : 
