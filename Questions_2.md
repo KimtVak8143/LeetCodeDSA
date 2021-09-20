@@ -51,10 +51,10 @@
 - Link to problem : https://leetcode.com/problems/missing-number/
 
 ## Q38
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 20 September 2021
+- Statement : 389. Find the Difference
+- Language : Python3
+- Link to problem :https://leetcode.com/problems/find-the-difference/
 
 ## Q39
 - Date : 

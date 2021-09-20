@@ -33,8 +33,7 @@
   - now finding the duplicate element
   - at last, using relation we get, result = target-(sum-k),
   - now appending the result and k into a list and return them.
-
-
+  
 - Missing Number - 268
   - simple method of using summation of 1 to n and then subtracting the summation of nums list elements.
   - return the result
