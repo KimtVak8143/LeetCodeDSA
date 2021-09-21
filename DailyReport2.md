@@ -51,3 +51,12 @@
   - Brute force method : iterate through nums, keep one element fixed and compare the entire list, 
   - increment count if less than fixed int, then append the count in a new list
   - return list
+
+- Running Sum of 1d Array - 1480
+  - simple method
+
+- Concatenation of Array - 1929
+  - naive thinking, return nums+nums
+  - efficient : store len(nums) in n, then append nums[i] in nums as
+  - nums.append(nums[i]) for i in range(0,n)
+  - return nums

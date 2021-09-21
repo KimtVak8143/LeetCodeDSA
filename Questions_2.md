@@ -62,17 +62,17 @@
 - Language : Python3
 - Link to problem : https://leetcode.com/problems/backspace-string-compare/
 
-## Q3
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+## Q40
+- Date : 21 September 2021 
+- Statement : 1480. Running Sum of 1d Array
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/running-sum-of-1d-array/
 
-## Q3
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+## Q41
+- Date : 21 September 2021
+- Statement : 1929. Concatenation of Array
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/concatenation-of-array/
 
 ## Q3
 - Date : 
