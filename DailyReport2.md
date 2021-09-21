@@ -44,3 +44,10 @@
   - Efficient thinking: store the sum of ascii integers of all characters in string 1 and 2
   - then calculate the difference between the two, the resultant is the ascii of extra character
   - convert ascii into char, return that char
+
+## 21 September 2021
+
+- How Many Numbers Are Smaller Than the Current Number - 1365
+  - Brute force method : iterate through nums, keep one element fixed and compare the entire list, 
+  - increment count if less than fixed int, then append the count in a new list
+  - return list

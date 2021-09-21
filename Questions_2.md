@@ -57,10 +57,10 @@
 - Link to problem :https://leetcode.com/problems/find-the-difference/
 
 ## Q39
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+- Date : 21 September 2021
+- Statement : 1365. How Many Numbers Are Smaller Than the Current Number
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/backspace-string-compare/
 
 ## Q3
 - Date : 
