@@ -51,3 +51,6 @@
   - Brute force method : iterate through nums, keep one element fixed and compare the entire list, 
   - increment count if less than fixed int, then append the count in a new list
   - return list
+
+- Running Sum of 1d Array - 1480
+  - simple method
