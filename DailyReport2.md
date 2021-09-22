@@ -71,3 +71,7 @@
   - simply create a new list, then iterate through nums1 and store elements as
   - new.append(nums[i])
   - return new
+
+- Backspace String Compare - 844
+  - using a extra function, which pops element if ch=='#', else append the char
+  - and return check(s)==check(t)

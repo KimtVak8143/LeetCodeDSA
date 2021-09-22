@@ -87,10 +87,10 @@
 - Link to problem : https://leetcode.com/problems/build-array-from-permutation/
 
 ## Q44
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+- Date : 22 September 2021
+- Statement : 844. Backspace String Compare
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/backspace-string-compare/
 
 ## Q45
 - Date : 
