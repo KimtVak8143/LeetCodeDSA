@@ -81,7 +81,85 @@
 - Link to problem : https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 ## Q43
+- Date : 22 September 2021
+- Statement : 1920. Build Array from Permutation
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/build-array-from-permutation/
+
+## Q44
 - Date : 
 - Statement : 
 - Language :
-- Link to problem :
+- Link to problem : 
+
+## Q45
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q46
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q47
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q48
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q49
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q4
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q4
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q4
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q4
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q4
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q4
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q4
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
