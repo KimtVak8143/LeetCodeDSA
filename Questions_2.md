@@ -74,13 +74,13 @@
 - Language : Python3
 - Link to problem : https://leetcode.com/problems/concatenation-of-array/
 
-## Q3
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+## Q42
+- Date : 22 September 2021
+- Statement : 4. Median of Two Sorted Arrays
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/median-of-two-sorted-arrays/
 
-## Q3
+## Q43
 - Date : 
 - Statement : 
 - Language :
