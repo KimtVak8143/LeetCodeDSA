@@ -74,14 +74,92 @@
 - Language : Python3
 - Link to problem : https://leetcode.com/problems/concatenation-of-array/
 
-## Q3
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
+## Q42
+- Date : 22 September 2021
+- Statement : 4. Median of Two Sorted Arrays
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/median-of-two-sorted-arrays/
 
-## Q3
+## Q43
+- Date : 22 September 2021
+- Statement : 1920. Build Array from Permutation
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/build-array-from-permutation/
+
+## Q44
+- Date : 22 September 2021
+- Statement : 844. Backspace String Compare
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/backspace-string-compare/
+
+## Q45
 - Date : 
 - Statement : 
 - Language :
-- Link to problem :
+- Link to problem : 
+
+## Q46
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q47
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q48
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q49
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q4
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q4
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q4
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q4
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q4
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q4
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q4
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 

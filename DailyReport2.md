@@ -60,3 +60,18 @@
   - efficient : store len(nums) in n, then append nums[i] in nums as
   - nums.append(nums[i]) for i in range(0,n)
   - return nums
+
+## 22 September 2021
+
+- Median of Two Sorted Arrays - 4
+  - create a new list, store nums1,nums2 in it
+  - then use .sort(), then check for even length, then return that element.
+
+- Build Array from Permutation - 1920
+  - simply create a new list, then iterate through nums1 and store elements as
+  - new.append(nums[i])
+  - return new
+
+- Backspace String Compare - 844
+  - using a extra function, which pops element if ch=='#', else append the char
+  - and return check(s)==check(t)
