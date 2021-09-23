@@ -99,10 +99,10 @@
 - Link to problem : https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 
 ## Q46
-- Date : 22 September 2021
-- Statement : 
+- Date : 23 September 2021
+- Statement : 1431. Kids With the Greatest Number of Candies
 - Language : Python3
-- Link to problem : 
+- Link to problem : https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
 ## Q47
 - Date : 
