@@ -105,10 +105,10 @@
 - Link to problem : https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
 ## Q47
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+- Date : 23 September 2021
+- Statement : 1470. Shuffle the Array
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/shuffle-the-array/
 
 ## Q48
 - Date : 

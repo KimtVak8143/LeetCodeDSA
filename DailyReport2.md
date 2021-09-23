@@ -73,7 +73,7 @@
   - return new
 
 - Backspace String Compare - 844
-  - using a extra function, which pops element if ch=='#', else append the char
+  - using an extra function, which pops element if ch=='#', else append the char
   - and return check(s)==check(t)
 
 
@@ -86,3 +86,10 @@
   - define maxum = max(list)
   - for each element check if candies[i]+extra>=maxum, append true in list, else false
   - return list
+
+- Shuffle the Array - 1470
+  - create a new list, simple append nums[i] and nums[i+n], for n times
+  - return new list
+  - OR, 
+  - break nums into 2 list, as [:n] and [n:], 
+  - now in a loop, append both into result list, return result
