@@ -75,3 +75,11 @@
 - Backspace String Compare - 844
   - using a extra function, which pops element if ch=='#', else append the char
   - and return check(s)==check(t)
+
+
+## 23 September 2021
+- Final Value of Variable After Performing Operations - 2011
+  - simple string check for '++'&& '--' in list item, increment/decrement accordingly
+  - return var
+
+- 
