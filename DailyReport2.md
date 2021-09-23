@@ -75,3 +75,14 @@
 - Backspace String Compare - 844
   - using a extra function, which pops element if ch=='#', else append the char
   - and return check(s)==check(t)
+
+
+## 23 September 2021
+- Final Value of Variable After Performing Operations - 2011
+  - simple string check for '++'&& '--' in list item, increment/decrement accordingly
+  - return var
+  
+- Kids With the Greatest Number of Candies - 1431
+  - define maxum = max(list)
+  - for each element check if candies[i]+extra>=maxum, append true in list, else false
+  - return list

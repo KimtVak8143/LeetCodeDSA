@@ -93,16 +93,16 @@
 - Link to problem : https://leetcode.com/problems/backspace-string-compare/
 
 ## Q45
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+- Date : 23 September 2021
+- Statement : 2011. Final Value of Variable After Performing Operations
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 
 ## Q46
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+- Date : 23 September 2021
+- Statement : 1431. Kids With the Greatest Number of Candies
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
 ## Q47
 - Date : 
