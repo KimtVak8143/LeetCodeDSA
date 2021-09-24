@@ -93,3 +93,10 @@
   - OR, 
   - break nums into 2 list, as [:n] and [n:], 
   - now in a loop, append both into result list, return result
+
+## 24 September 2021
+
+- Richest Customer Wealth - 1672
+  - get into each list row, and use sum(), to get sum of each secondary list
+  - then take max of all-time maximum and current sum
+  - return maxum

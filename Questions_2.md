@@ -111,10 +111,10 @@
 - Link to problem : https://leetcode.com/problems/shuffle-the-array/
 
 ## Q48
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+- Date : 24 September 2021
+- Statement : 1672. Richest Customer Wealth
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/richest-customer-wealth/
 
 ## Q49
 - Date : 
