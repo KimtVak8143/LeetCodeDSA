@@ -100,3 +100,6 @@
   - get into each list row, and use sum(), to get sum of each secondary list
   - then take max of all-time maximum and current sum
   - return maxum
+
+- Check If Two String Arrays are Equivalent - 1661
+  - create 2 empty strings, now store all list strings, then return s1==s2
