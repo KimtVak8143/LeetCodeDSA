@@ -104,7 +104,13 @@
 - Check If Two String Arrays are Equivalent - 1661
   - create 2 empty strings, now store all list strings, then return s1==s2
 
+## 25 September 2021
 
-- 1913. Maximum Product Difference Between Two Pairs
+- Maximum Product Difference Between Two Pairs - 1913
   - naive thinking - firstly, sort the list, then return result of element of list
   - result = -1*-2 - 0*1
+
+- Decompress Run-Length Encoded List - 1313
+  - store nums[2i] and nums[2i+1] as freq,val
+  - then for freq times, append val in new
+  - return new
