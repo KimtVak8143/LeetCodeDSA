@@ -122,43 +122,55 @@
 - Language : Python3
 - Link to problem : https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 
-## Q4
+## Q50
+- Date : 25 September 2021
+- Statement : 1913. Maximum Product Difference Between Two Pairs
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
+
+## Q51
+- Date : 25 September 2021
+- Statement : 1313. Decompress Run-Length Encoded List
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/decompress-run-length-encoded-list/
+
+## Q52
 - Date : 
 - Statement : 
 - Language :
 - Link to problem : 
 
-## Q4
+## Q5
+- Date : 
+- Statement : 
+- Language :
+- Link to problem :
+
+## Q5
 - Date : 
 - Statement : 
 - Language :
 - Link to problem : 
 
-## Q4
+## Q5
 - Date : 
 - Statement : 
 - Language :
 - Link to problem : 
 
-## Q4
+## Q5
 - Date : 
 - Statement : 
 - Language :
 - Link to problem : 
 
-## Q4
+## Q5
 - Date : 
 - Statement : 
 - Language :
 - Link to problem : 
 
-## Q4
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
-
-## Q4
+## Q5
 - Date : 
 - Statement : 
 - Language :
