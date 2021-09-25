@@ -122,11 +122,11 @@
 - Language : Python3
 - Link to problem : https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 
-## Q4
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+## Q50
+- Date : 25 September 2021
+- Statement : 1913. Maximum Product Difference Between Two Pairs
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 
 ## Q4
 - Date : 

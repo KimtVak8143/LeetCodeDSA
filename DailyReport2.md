@@ -103,3 +103,8 @@
 
 - Check If Two String Arrays are Equivalent - 1661
   - create 2 empty strings, now store all list strings, then return s1==s2
+
+
+- 1913. Maximum Product Difference Between Two Pairs
+  - naive thinking - firstly, sort the list, then return result of element of list
+  - result = -1*-2 - 0*1
