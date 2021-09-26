@@ -114,3 +114,13 @@
   - store nums[2i] and nums[2i+1] as freq,val
   - then for freq times, append val in new
   - return new
+
+## 26 September 2021
+
+- Majority Element - 169
+  - naive thinking - use hash map, store frequency, return max(freq)
+  - efficient approach - sort the list, since majority is >n/2, so majority element will be at index n/2
+  - so return nums[n//2]
+  - OR use count/collection approach
+
+- 

@@ -135,21 +135,21 @@
 - Link to problem : https://leetcode.com/problems/decompress-run-length-encoded-list/
 
 ## Q52
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+- Date : 26 September 2021
+- Statement : 169. Majority Element
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/majority-element/
 
 ## Q5
-- Date : 
+- Date : 26 September 2021
 - Statement : 
-- Language :
+- Language : Python3
 - Link to problem :
 
 ## Q5
-- Date : 
+- Date : 26 September 2021
 - Statement : 
-- Language :
+- Language : Python3
 - Link to problem : 
 
 ## Q5
