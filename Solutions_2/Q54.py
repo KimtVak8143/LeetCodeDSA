@@ -16,6 +16,7 @@ class Solution:
 #             ans[b] = a
 #         return ''.join(ans)
 
+
 # sample 42 ms submission
 # class Solution:
 #     def restoreString(self, s: str, indices: List[int]) -> str:
