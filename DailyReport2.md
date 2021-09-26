@@ -123,4 +123,19 @@
   - so return nums[n//2]
   - OR use count/collection approach
 
-- 
+- Number of Good Pairs - 1512
+  - naive approach - use 2 loops, and check for nums[i]==nums[j] and i<j, and increment count, return count
+  - Efficient approach - use hashmaps, store freq of each element, 
+  - then increment count by value, n*(n+1)//2
+  - return count
+
+- Shuffle String - 1528
+  - create an auxiliary string list as, res = ['']*len(s)
+  - then iterate from 0 to n-1 and shuffle assign as
+  - res[index[i]] = s[i] , 
+  - return "".join(res)
+  - OR
+  - use zip method
+  - OR
+  - use naive thinking, but efficiently
+

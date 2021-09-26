@@ -140,37 +140,55 @@
 - Language : Python3
 - Link to problem : https://leetcode.com/problems/majority-element/
 
-## Q5
+## Q53
 - Date : 26 September 2021
-- Statement : 
+- Statement : 1512. Number of Good Pairs
 - Language : Python3
-- Link to problem :
+- Link to problem : https://leetcode.com/problems/number-of-good-pairs/
 
-## Q5
+## Q54
 - Date : 26 September 2021
-- Statement : 
+- Statement : 1528. Shuffle String
 - Language : Python3
-- Link to problem : 
+- Link to problem : https://leetcode.com/problems/shuffle-string/submissions/
 
-## Q5
+## Q55
 - Date : 
 - Statement : 
 - Language :
 - Link to problem : 
 
-## Q5
+## Q56
 - Date : 
 - Statement : 
 - Language :
 - Link to problem : 
 
-## Q5
+## Q57
 - Date : 
 - Statement : 
 - Language :
 - Link to problem : 
 
-## Q5
+## Q58
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q59
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q60
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+## Q6
 - Date : 
 - Statement : 
 - Language :
