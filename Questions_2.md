@@ -135,42 +135,61 @@
 - Link to problem : https://leetcode.com/problems/decompress-run-length-encoded-list/
 
 ## Q52
+- Date : 26 September 2021
+- Statement : 169. Majority Element
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/majority-element/
+
+## Q53
+- Date : 26 September 2021
+- Statement : 1512. Number of Good Pairs
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/number-of-good-pairs/
+
+## Q54
+- Date : 26 September 2021
+- Statement : 1528. Shuffle String
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/shuffle-string/submissions/
+
+## Q55
 - Date : 
 - Statement : 
 - Language :
 - Link to problem : 
 
-## Q5
-- Date : 
-- Statement : 
-- Language :
-- Link to problem :
-
-## Q5
+## Q56
 - Date : 
 - Statement : 
 - Language :
 - Link to problem : 
 
-## Q5
+## Q57
 - Date : 
 - Statement : 
 - Language :
 - Link to problem : 
 
-## Q5
+## Q58
 - Date : 
 - Statement : 
 - Language :
 - Link to problem : 
 
-## Q5
+## Q59
 - Date : 
 - Statement : 
 - Language :
 - Link to problem : 
 
-## Q5
+## Q60
+- Date : 
+- Statement : 
+- Language :
+- Link to problem : 
+
+
+## Q6
 - Date : 
 - Statement : 
 - Language :
