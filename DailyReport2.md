@@ -141,4 +141,12 @@
 
 ## 27 September 2021
 
--
+- Sort Colors - 75
+  - create a dict with 0,1,2 as keys with nil values
+  - then increment count of each key, as in frequency in nums
+  - then clear the original nums, now iterate through the new dictionary elements, and append the "key" for their "value" times into the nums list
+
+- Design HashMap - 706
+  - 4 functions in all
+  - define a list type 
+  - then define each function as described

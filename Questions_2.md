@@ -153,16 +153,16 @@
 - Link to problem : https://leetcode.com/problems/shuffle-string/submissions/
 
 ## Q55
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+- Date : 27 September 2021
+- Statement : 75. Sort Colors
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/sort-colors
 
 ## Q56
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+- Date : 27 September 2021
+- Statement : 706. Design HashMap
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/design-hashmap/
 
 ## Q57
 - Date : 
