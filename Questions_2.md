@@ -172,9 +172,9 @@
 
 ## Q58
 - Date : 28 September 2021
-- Statement : 
+- Statement : 1688. Count of Matches in Tournament
 - Language : Python3
-- Link to problem : 
+- Link to problem : https://leetcode.com/problems/count-of-matches-in-tournament/
 
 ## Q59
 - Date : 
