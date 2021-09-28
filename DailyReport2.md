@@ -150,3 +150,18 @@
   - 4 functions in all
   - define a list type 
   - then define each function as described
+
+## 28 September 2021
+- Count Number of Pairs With Absolute Difference K - 2006
+  - using nested loops for check, return count
+  - OR
+  - use counter()
+
+- Count of Matches in Tournament - 1688
+  - simply follow rule for odd/even matches after each reduction of n, until n!=1
+  - return total
+  - OR
+  - return n-1, for n teams, we need to play n-1 matches to eliminate n-1 teams, to get 1 winner.
+  - OR 
+  - use single rule for both odd/even matches, but use modulo(%) instead of normal division. 
+

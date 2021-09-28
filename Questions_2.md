@@ -165,16 +165,16 @@
 - Link to problem : https://leetcode.com/problems/design-hashmap/
 
 ## Q57
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+- Date : 28 September 2021
+- Statement : 2006. Count Number of Pairs With Absolute Difference K
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 
 ## Q58
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+- Date : 28 September 2021
+- Statement : 1688. Count of Matches in Tournament
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/count-of-matches-in-tournament/
 
 ## Q59
 - Date : 
