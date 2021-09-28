@@ -150,3 +150,11 @@
   - 4 functions in all
   - define a list type 
   - then define each function as described
+
+## 28 September 2021
+- Count Number of Pairs With Absolute Difference K - 2006
+  - usign nested loops for check, return count
+  - OR
+  - use counter()
+
+- 
