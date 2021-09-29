@@ -165,3 +165,15 @@
   - OR 
   - use single rule for both odd/even matches, but use modulo(%) instead of normal division. 
 
+## 29 September 2021
+
+- First Bad Version - 278
+  - use binary search approach, checks for mid-value, then increments and decrements left and right accordingly
+  - thereby defying the while condition, return mid
+
+- Guess Number Higher or Lower - 374
+  - use binary search approach, checks for mid-value,
+  - then check for guess(mid), if <0: assign mid-1 to right, or
+  - if >0 assign mid+1 to left accordingly
+  - or else if ==0, return mid
+  - or else, return -1

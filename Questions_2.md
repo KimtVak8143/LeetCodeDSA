@@ -177,16 +177,16 @@
 - Link to problem : https://leetcode.com/problems/count-of-matches-in-tournament/
 
 ## Q59
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+- Date : 29 September 2021
+- Statement : 278. First Bad Version
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/first-bad-version/
 
 ## Q60
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+- Date : 29 September 2021
+- Statement : 374. Guess Number Higher or Lower
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/guess-number-higher-or-lower/
 
 
 ## Q6
