@@ -9,10 +9,10 @@
 
 
 ## Q61
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+- Date : 30 September 2021
+- Statement : 1773. Count Items Matching a Rule
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/count-items-matching-a-rule/
 
 ## Q62
 - Date : 
