@@ -15,12 +15,7 @@ class Solution:
 # sample 212 ms submission
 # class Solution:
 #     def countMatches(self, items: List[List[str]], ruleKey: str, ruleValue: str) -> int:
-#             d = {
-#                 'color':1,
-#                 'type':0,
-#                 'name':2
-#             }
-#
+#             d = {'type':0, 'color':1, 'name':2}
 #             indx = d.get(ruleKey)
 #
 #             count = 0
