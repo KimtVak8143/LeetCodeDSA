@@ -15,10 +15,10 @@
 - Link to problem : https://leetcode.com/problems/count-items-matching-a-rule/
 
 ## Q62
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+- Date : 02 September 2021
+- Statement : 1252. Cells with Odd Values in a Matrix
+- Language : Python3
+- Link to problem :https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/ 
 
 ## Q63
 - Date : 
