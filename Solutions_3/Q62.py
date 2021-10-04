@@ -23,3 +23,24 @@ class Solution:
 #             for j in range(n):
 #                 c = c+1 if (d["r"][i]+d["c"][j])%2!=0 else c
 #         return c
+
+
+# sample 36 ms submission
+#
+# class Solution:
+#     def oddCells(self, m: int, n: int, indices: List[List[int]]) -> int:
+#         rows = [0 for i in range(m)]
+#         cols = [0 for i in range(n)]
+#         sums = Counter()
+#         for x, y in indices:
+#             rows[x] += 1
+#             cols[y] += 1
+#             sums[(x, y)] += 1
+#
+#         S = 0
+#         for indX, valX in enumerate(rows):
+#             for indY, valY in enumerate(cols):
+#                 S += (valX + valY) % 2
+#         print(rows)
+#         print(cols)
+#         return S

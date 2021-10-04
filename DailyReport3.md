@@ -16,3 +16,11 @@
   - sum([(r+c)%2 for r in l1 for c in l2])
   - return sum
 
+## 4 October 2021
+
+- Longest Common Prefix - 14
+  - pre-check for empty given list, return ""
+  - then create a string and store the minimum string among the strs list. 
+  - now using numerate function, store values of string and the frequency
+  - now check for each string, perform their frequency validation
+  - upon failing return the string updated till now !!
