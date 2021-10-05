@@ -2,10 +2,10 @@
 
 ## 30 September 2021
 - Count Items Matching a Rule - 1773
-  - create a dictionary with type, color, name initilsed to 0,1,2
+  - create a dictionary with type, color, name initialised to 0,1,2
   - then store corresponding value of rulekey in i
-  - then iterate through eacch item
-  - and match for i index with rulevalue, imcrement sum by 1
+  - then iterate through each item
+  - and match for i index with rulevalue, increment sum by 1
   - return sum
 
 - Cells with Odd Values in a Matrix - 1252
@@ -24,3 +24,10 @@
   - now using numerate function, store values of string and the frequency
   - now check for each string, perform their frequency validation
   - upon failing return the string updated till now !!
+
+## 5 October 2021
+
+- Product of Array Except Self - 238
+  - first store product of list
+  - then store product in reverse order
+  - finally, return result

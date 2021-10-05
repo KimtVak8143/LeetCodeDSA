@@ -27,10 +27,10 @@
 - Link to problem : https://leetcode.com/problems/longest-common-prefix/
 
 ## Q64
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+- Date : 05 October 2021
+- Statement : 238. Product of Array Except Self
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/product-of-array-except-self/
 
 ## Q6
 - Date : 
