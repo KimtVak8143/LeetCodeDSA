@@ -31,3 +31,8 @@
   - first store product of list
   - then store product in reverse order
   - finally, return result
+
+## 6 October 2021
+
+- Add Strings - 415
+  - store sum of int of both nums in new, then return str(new) 
