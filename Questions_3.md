@@ -38,11 +38,11 @@
 - Language : Python3
 - Link to problem : https://leetcode.com/problems/add-strings/
 
-## Q6
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+## Q66
+- Date : 07 October 2021
+- Statement : 1629. Slowest Key
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/slowest-key/
 
 ## Q6
 - Date : 

@@ -36,3 +36,12 @@
 
 - Add Strings - 415
   - store sum of int of both nums in new, then return str(new) 
+
+## 7 October 2021
+
+- Slowest Key - 1629
+  - using enumerate function, iterate through values of realeaseTimes
+  - then check for difference, and compare with long and update accordingly
+  - if long>time, then store char in result
+  - In case the values of releasetimes are same, then check for highest ASCII value using ord()
+  - finally, update start time, then return res char in the end
