@@ -44,13 +44,13 @@
 - Language : Python3
 - Link to problem : https://leetcode.com/problems/slowest-key/
 
-## Q6
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+## Q67
+- Date : 08 October 2021 
+- Statement : 43. Multiply Strings
+- Language : Python3
+- Link to problem : https://leetcode.com/problems/multiply-strings/
 
-## Q6
+## Q68
 - Date : 
 - Statement : 
 - Language :

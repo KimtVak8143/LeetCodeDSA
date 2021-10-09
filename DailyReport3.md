@@ -45,3 +45,13 @@
   - if long>time, then store char in result
   - In case the values of releasetimes are same, then check for highest ASCII value using ord()
   - finally, update start time, then return res char in the end
+  
+## 8 October 2021
+
+- Multiply Strings - 43
+  - using one-to-one multiplication
+  - reverse both strings, then take each digit and apply a few optimizations to simulate the final string result
+
+## 9 October 2021
+
+- 
