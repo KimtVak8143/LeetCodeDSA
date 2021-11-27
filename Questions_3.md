@@ -56,14 +56,14 @@
 - Language :
 - Link to problem : 
 
-## Q6
+## Q69
 - Date : 
 - Statement : 
 - Language :
 - Link to problem : 
 
-## Q6
-- Date : 
-- Statement : 
-- Language :
-- Link to problem : 
+## Q70
+- Date : 27 November 2021
+- Statement : Power of Three
+- Language : Python
+- Link to problem : https://leetcode.com/problems/power-of-three/ 

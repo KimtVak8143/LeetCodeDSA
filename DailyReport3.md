@@ -52,6 +52,11 @@
   - using one-to-one multiplication
   - reverse both strings, then take each digit and apply a few optimizations to simulate the final string result
 
-## 9 October 2021
-
 - 
+
+## 27 November 2021
+
+- Power of Three - 326
+  - using the log check technique
+  - then checking for the 3^(log division value) if it is equal to n
+  - then return True, else False
